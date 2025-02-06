@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    display: flex;
+}
+
+.box3, .box4{
+    width: 50%;
+    height: 300px;
+}
+
+.box5, .box6{
+    height: 150px;
+}
+
+.box1{
+    background-color: burlywood;
+    height: 150px;
+}
+
+.box2{
+    background-color: goldenrod;
+    height: 50px;
+}
+
+.box3{
+    background-color: yellow;
+}
+
+.box4{
+    background-color: greenyellow;
+}
+
+.box5{
+    background-color: blanchedalmond;
+}
+
+.box6{
+    background-color: darkslategrey;
+}
+
+.box7{
+    height: 50px;
+    background-color: darkslateblue;
+}
